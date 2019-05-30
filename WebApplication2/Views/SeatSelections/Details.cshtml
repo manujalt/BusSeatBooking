@@ -1,0 +1,42 @@
+﻿@model WebApplication2.SeatSelection
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>SeatSelection</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.seat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.seat)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fill)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fill)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.seatno)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.seatno)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

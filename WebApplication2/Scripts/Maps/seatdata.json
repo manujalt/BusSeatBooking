@@ -1,0 +1,2046 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 0, 0 ],
+    //          [ 0, 20 ],
+    //          [ 20, 20 ],
+    //          [ 20, 0 ],
+    //          [ 0, 0 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 0, 22 ],
+    //          [ 0, 27 ],
+    //          [ 20, 27 ],
+    //          [ 20, 22 ],
+    //          [ 0, 22 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 19,
+    //    "fill": "gray"
+    //  }
+    //},
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 0, 47 ],
+    //          [ 0, 67 ],
+    //          [ 20, 67 ],
+    //          [ 20, 47 ],
+    //          [ 0, 47 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 0, 69 ],
+    //          [ 0, 74 ],
+    //          [ 20, 74 ],
+    //          [ 20, 69 ],
+    //          [ 0, 69 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 18,
+    //    "fill": "gray"
+    //  }
+    //},
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 0, 94 ],
+    //          [ 0, 114 ],
+    //          [ 20, 114 ],
+    //          [ 20, 94 ],
+    //          [ 0, 94 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 0, 116 ],
+    //          [ 0, 121 ],
+    //          [ 20, 121 ],
+    //          [ 20, 116 ],
+    //          [ 0, 116 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 13,
+    //    "fill": "gray"
+    //  }
+    //},
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 0, 141 ],
+    //          [ 0, 161 ],
+    //          [ 20, 161 ],
+    //          [ 20, 141 ],
+    //          [ 0, 141 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 0, 163 ],
+    //          [ 0, 168 ],
+    //          [ 20, 168 ],
+    //          [ 20, 163 ],
+    //          [ 0, 163 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 12,
+    //    "fill": "gray"
+    //  }
+    //},
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 0, 188 ],
+    //          [ 0, 208 ],
+    //          [ 20, 208 ],
+    //          [ 20, 188 ],
+    //          [ 0, 188 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 0, 210 ],
+    //          [ 0, 215 ],
+    //          [ 20, 215 ],
+    //          [ 20, 210 ],
+    //          [ 0, 210 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 7,
+    //    "fill": "gray"
+    //  }
+    //},
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 0, 235 ],
+    //          [ 0, 255 ],
+    //          [ 20, 255 ],
+    //          [ 20, 235 ],
+    //          [ 0, 235 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 0, 257 ],
+    //          [ 0, 262 ],
+    //          [ 20, 262 ],
+    //          [ 20, 257 ],
+    //          [ 0, 257 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 6,
+    //    "fill": "gray"
+    //  }
+    //},
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 0, 282 ],
+    //          [ 0, 302 ],
+    //          [ 20, 302 ],
+    //          [ 20, 282 ],
+    //          [ 0, 282 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 0, 304 ],
+    //          [ 0, 309 ],
+    //          [ 20, 309 ],
+    //          [ 20, 304 ],
+    //          [ 0, 304 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 1,
+    //    "fill": "gray"
+    //  }
+    //},
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 50, 0 ],
+    //          [ 50, 20 ],
+    //          [ 70, 20 ],
+    //          [ 70, 0 ],
+    //          [ 50, 0 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 50, 22 ],
+    //          [ 50, 27 ],
+    //          [ 70, 27 ],
+    //          [ 70, 22 ],
+    //          [ 50, 22 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 20,
+    //    "fill": "gray"
+    //  }
+    //},
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 50, 47 ],
+    //          [ 50, 67 ],
+    //          [ 70, 67 ],
+    //          [ 70, 47 ],
+    //          [ 50, 47 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 50, 69 ],
+    //          [ 50, 74 ],
+    //          [ 70, 74 ],
+    //          [ 70, 69 ],
+    //          [ 50, 69 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 17,
+    //    "fill": "gray"
+    //  }
+    //},
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 50, 94 ],
+    //          [ 50, 114 ],
+    //          [ 70, 114 ],
+    //          [ 70, 94 ],
+    //          [ 50, 94 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 50, 116 ],
+    //          [ 50, 121 ],
+    //          [ 70, 121 ],
+    //          [ 70, 116 ],
+    //          [ 50, 116 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 14,
+    //    "fill": "gray"
+    //  }
+    //},
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 50, 141 ],
+    //          [ 50, 161 ],
+    //          [ 70, 161 ],
+    //          [ 70, 141 ],
+    //          [ 50, 141 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 50, 163 ],
+    //          [ 50, 168 ],
+    //          [ 70, 168 ],
+    //          [ 70, 163 ],
+    //          [ 50, 163 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 11,
+    //    "fill": "gray"
+    //  }
+    //},
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 50, 188 ],
+    //          [ 50, 208 ],
+    //          [ 70, 208 ],
+    //          [ 70, 188 ],
+    //          [ 50, 188 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 50, 210 ],
+    //          [ 50, 215 ],
+    //          [ 70, 215 ],
+    //          [ 70, 210 ],
+    //          [ 50, 210 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 8,
+    //    "fill": "gray"
+    //  }
+    //},
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 50, 235 ],
+    //          [ 50, 255 ],
+    //          [ 70, 255 ],
+    //          [ 70, 235 ],
+    //          [ 50, 235 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 50, 257 ],
+    //          [ 50, 262 ],
+    //          [ 70, 262 ],
+    //          [ 70, 257 ],
+    //          [ 50, 257 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 5,
+    //    "fill": "gray"
+    //  }
+    //},
+
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 80, 0 ],
+    //          [ 80, 20 ],
+    //          [ 100, 20 ],
+    //          [ 100, 0 ],
+    //          [ 80, 0 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 80, 22 ],
+    //          [ 80, 27 ],
+    //          [ 100, 27 ],
+    //          [ 100, 22 ],
+    //          [ 80, 22 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 21,
+    //    "fill": "gray"
+    //  }
+    //},
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 80, 47 ],
+    //          [ 80, 67 ],
+    //          [ 100, 67 ],
+    //          [ 100, 47 ],
+    //          [ 80, 47 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 80, 69 ],
+    //          [ 80, 74 ],
+    //          [ 100, 74 ],
+    //          [ 100, 69 ],
+    //          [ 80, 69 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 16,
+    //    "fill": "gray"
+    //  }
+    //},
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 80, 94 ],
+    //          [ 80, 114 ],
+    //          [ 100, 114 ],
+    //          [ 100, 94 ],
+    //          [ 80, 94 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 80, 116 ],
+    //          [ 80, 121 ],
+    //          [ 100, 121 ],
+    //          [ 100, 116 ],
+    //          [ 80, 116 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 15,
+    //    "fill": "gray"
+    //  }
+    //},
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 80, 141 ],
+    //          [ 80, 161 ],
+    //          [ 100, 161 ],
+    //          [ 100, 141 ],
+    //          [ 80, 141 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 80, 163 ],
+    //          [ 80, 168 ],
+    //          [ 100, 168 ],
+    //          [ 100, 163 ],
+    //          [ 80, 163 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 10,
+    //    "fill": "gray"
+    //  }
+    //},
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 80, 188 ],
+    //          [ 80, 208 ],
+    //          [ 100, 208 ],
+    //          [ 100, 188 ],
+    //          [ 80, 188 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 80, 210 ],
+    //          [ 80, 215 ],
+    //          [ 100, 215 ],
+    //          [ 100, 210 ],
+    //          [ 80, 210 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 9,
+    //    "fill": "gray"
+    //  }
+    //},
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 80, 235 ],
+    //          [ 80, 255 ],
+    //          [ 100, 255 ],
+    //          [ 100, 235 ],
+    //          [ 80, 235 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 80, 257 ],
+    //          [ 80, 262 ],
+    //          [ 100, 262 ],
+    //          [ 100, 257 ],
+    //          [ 80, 257 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 4,
+    //    "fill": "gray"
+    //  }
+    //},
+    //{
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [
+    //          [ 80, 282 ],
+    //          [ 80, 302 ],
+    //          [ 100, 302 ],
+    //          [ 100, 282 ],
+    //          [ 80, 282 ]
+    //        ]
+    //      ],
+    //      [
+    //        [
+    //          [ 80, 304 ],
+    //          [ 80, 309 ],
+    //          [ 100, 309 ],
+    //          [ 100, 304 ],
+    //          [ 80, 304 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 3,
+    //    "fill": "gray"
+    //  }
+    //},
+
+    ///
+
+    ////MIDDLE SITTING - Top row
+
+    { //above chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 0, 302 ],
+              [ 0, 322 ],
+              [ 20, 322 ],
+              [ 20, 302 ],
+              [ 0, 302 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 0, 324 ],
+              [ 0, 329 ],
+              [ 20, 329 ],
+              [ 20, 324 ],
+              [ 0, 324 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 1,
+        "fill": "gray"
+      }
+    },
+    { //above chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 30, 302 ],
+              [ 30, 322 ],
+              [ 50, 322 ],
+              [ 50, 302 ],
+              [ 30, 302 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 30, 324 ],
+              [ 30, 329 ],
+              [ 50, 329 ],
+              [ 50, 324 ],
+              [ 30, 324 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 2,
+        "fill": "gray"
+      }
+    },
+    { //table creation
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [ -10, 272 ],
+              [ -10, 299 ],
+              [ 60, 299 ],
+              [ 60, 272 ],
+              [ -10, 272 ]
+            ]
+          ],
+          [
+            [
+              [ -10, 294 ],
+              [ -10, 299 ],
+              [ 60, 299 ],
+              [ 60, 294 ],
+              [ -10, 294 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 2,
+        "fill": "Orange"
+      }
+    }, //Orange
+
+    { //below chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 0, 242 ],
+              [ 0, 250 ],
+              [ 20, 250 ],
+              [ 20, 242 ],
+              [ 0, 242 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 0, 252 ],
+              [ 0, 269 ],
+              [ 20, 269 ],
+              [ 20, 252 ],
+              [ 0, 252 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 3,
+        "fill": "gray"
+      }
+    },
+
+    { //below chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 30, 242 ],
+              [ 30, 250 ],
+              [ 50, 250 ],
+              [ 50, 242 ],
+              [ 30, 242 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 30, 252 ],
+              [ 30, 269 ],
+              [ 50, 269 ],
+              [ 50, 252 ],
+              [ 30, 252 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 4,
+        "fill": "gray"
+      }
+    },
+
+
+
+
+    ///MIDDLE SITTING - Top row
+    { //above chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 180, 302 ],
+              [ 180, 322 ],
+              [ 200, 322 ],
+              [ 200, 302 ],
+              [ 180, 302 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 180, 324 ],
+              [ 180, 329 ],
+              [ 200, 329 ],
+              [ 200, 324 ],
+              [ 180, 324 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 5,
+        "fill": "gray"
+      }
+    },
+    { //above chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 210, 302 ],
+              [ 210, 322 ],
+              [ 230, 322 ],
+              [ 230, 302 ],
+              [ 210, 302 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 210, 324 ],
+              [ 210, 329 ],
+              [ 230, 329 ],
+              [ 230, 324 ],
+              [ 210, 324 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 6,
+        "fill": "gray"
+      }
+    },
+    { //table creation
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [ 170, 272 ],
+              [ 170, 299 ],
+              [ 240, 299 ],
+              [ 240, 272 ],
+              [ 170, 272 ]
+            ]
+          ],
+          [
+            [
+              [ 170, 294 ],
+              [ 170, 299 ],
+              [ 240, 299 ],
+              [ 240, 294 ],
+              [ 170, 294 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 2,
+        "fill": "Orange"
+      }
+    }, //Orange
+
+    { //below chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 180, 242 ],
+              [ 180, 250 ],
+              [ 200, 250 ],
+              [ 200, 242 ],
+              [ 180, 242 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 180, 252 ],
+              [ 180, 269 ],
+              [ 200, 269 ],
+              [ 200, 252 ],
+              [ 180, 252 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 7,
+        "fill": "gray"
+      }
+    },
+
+    { //below chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 210, 242 ],
+              [ 210, 250 ],
+              [ 230, 250 ],
+              [ 230, 242 ],
+              [ 210, 242 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 210, 252 ],
+              [ 210, 269 ],
+              [ 230, 269 ],
+              [ 230, 252 ],
+              [ 210, 252 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 8,
+        "fill": "gray"
+      }
+    },
+
+    ///MIDDLE SITTING - Top row
+    { //above chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 360, 302 ],
+              [ 360, 322 ],
+              [ 380, 322 ],
+              [ 380, 302 ],
+              [ 360, 302 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 360, 324 ],
+              [ 360, 329 ],
+              [ 380, 329 ],
+              [ 380, 324 ],
+              [ 360, 324 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 9,
+        "fill": "gray"
+      }
+    },
+    { //above chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 390, 302 ],
+              [ 390, 322 ],
+              [ 410, 322 ],
+              [ 410, 302 ],
+              [ 390, 302 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 390, 324 ],
+              [ 390, 329 ],
+              [ 410, 329 ],
+              [ 410, 324 ],
+              [ 390, 324 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 10,
+        "fill": "gray"
+      }
+    },
+    { //table creation
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [ 350, 272 ],
+              [ 350, 299 ],
+              [ 420, 299 ],
+              [ 420, 272 ],
+              [ 350, 272 ]
+            ]
+          ],
+          [
+            [
+              [ 350, 294 ],
+              [ 350, 299 ],
+              [ 420, 299 ],
+              [ 420, 294 ],
+              [ 350, 294 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 2,
+        "fill": "Orange"
+      }
+    }, //Orange
+
+    { //below chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 360, 242 ],
+              [ 360, 250 ],
+              [ 380, 250 ],
+              [ 380, 242 ],
+              [ 360, 242 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 360, 252 ],
+              [ 360, 269 ],
+              [ 380, 269 ],
+              [ 380, 252 ],
+              [ 360, 252 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 11,
+        "fill": "gray"
+      }
+    },
+
+    { //below chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 390, 242 ],
+              [ 390, 250 ],
+              [ 410, 250 ],
+              [ 410, 242 ],
+              [ 390, 242 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 390, 252 ],
+              [ 390, 269 ],
+              [ 410, 269 ],
+              [ 410, 252 ],
+              [ 390, 252 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 12,
+        "fill": "gray"
+      }
+    },
+
+
+
+
+    ///FIRSST SITTING -Middle row
+    { //above chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 0, 182 ],
+              [ 0, 202 ],
+              [ 20, 202 ],
+              [ 20, 182 ],
+              [ 0, 182 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 0, 204 ],
+              [ 0, 209 ],
+              [ 20, 209 ],
+              [ 20, 204 ],
+              [ 0, 204 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 13,
+        "fill": "gray"
+      }
+    },
+    { //above chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 30, 182 ],
+              [ 30, 202 ],
+              [ 50, 202 ],
+              [ 50, 182 ],
+              [ 30, 182 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 30, 204 ],
+              [ 30, 209 ],
+              [ 50, 209 ],
+              [ 50, 204 ],
+              [ 30, 204 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 14,
+        "fill": "gray"
+      }
+    },
+    { //table creation
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [ -10, 152 ],
+              [ -10, 179 ],
+              [ 60, 179 ],
+              [ 60, 152 ],
+              [ -10, 152 ]
+            ]
+          ],
+          [
+            [
+              [ -10, 174 ],
+              [ -10, 179 ],
+              [ 60, 179 ],
+              [ 60, 174 ],
+              [ -10, 174 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 2,
+        "fill": "Orange"
+      }
+    }, //Orange
+
+    { //below chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 0, 122 ],
+              [ 0, 130 ],
+              [ 20, 130 ],
+              [ 20, 122 ],
+              [ 0, 122 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 0, 132 ],
+              [ 0, 149 ],
+              [ 20, 149 ],
+              [ 20, 132 ],
+              [ 0, 132 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 15,
+        "fill": "gray"
+      }
+    },
+
+    { //below chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 30, 122 ],
+              [ 30, 130 ],
+              [ 50, 130 ],
+              [ 50, 122 ],
+              [ 30, 122 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 30, 132 ],
+              [ 30, 149 ],
+              [ 50, 149 ],
+              [ 50, 132 ],
+              [ 30, 132 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 16,
+        "fill": "gray"
+      }
+    },
+
+
+
+    ///MIDDLE SITTING - Middle row
+    { //above chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 180, 182 ],
+              [ 180, 202 ],
+              [ 200, 202 ],
+              [ 200, 182 ],
+              [ 180, 182 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 180, 204 ],
+              [ 180, 209 ],
+              [ 200, 209 ],
+              [ 200, 204 ],
+              [ 180, 204 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 17,
+        "fill": "gray"
+      }
+    },
+    { //above chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 210, 182 ],
+              [ 210, 202 ],
+              [ 230, 202 ],
+              [ 230, 182 ],
+              [ 210, 182 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 210, 204 ],
+              [ 210, 209 ],
+              [ 230, 209 ],
+              [ 230, 204 ],
+              [ 210, 204 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 18,
+        "fill": "gray"
+      }
+    },
+    { //table creation
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [ 170, 152 ],
+              [ 170, 179 ],
+              [ 240, 179 ],
+              [ 240, 152 ],
+              [ 170, 152 ]
+            ]
+          ],
+          [
+            [
+              [ 170, 174 ],
+              [ 170, 179 ],
+              [ 240, 179 ],
+              [ 240, 174 ],
+              [ 170, 174 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 2,
+        "fill": "Orange"
+      }
+    }, //Orange
+
+    { //below chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 180, 122 ],
+              [ 180, 130 ],
+              [ 200, 130 ],
+              [ 200, 122 ],
+              [ 180, 122 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 180, 132 ],
+              [ 180, 149 ],
+              [ 200, 149 ],
+              [ 200, 132 ],
+              [ 180, 132 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 19,
+        "fill": "gray"
+      }
+    },
+
+    { //below chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 210, 122 ],
+              [ 210, 130 ],
+              [ 230, 130 ],
+              [ 230, 122 ],
+              [ 210, 122 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 210, 132 ],
+              [ 210, 149 ],
+              [ 230, 149 ],
+              [ 230, 132 ],
+              [ 210, 132 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 20,
+        "fill": "gray"
+      }
+    },
+
+    ///THIRD SITTING - Middle row
+    { //above chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 360, 182 ],
+              [ 360, 202 ],
+              [ 380, 202 ],
+              [ 380, 182 ],
+              [ 360, 182 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 360, 204 ],
+              [ 360, 209 ],
+              [ 380, 209 ],
+              [ 380, 204 ],
+              [ 360, 204 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 21,
+        "fill": "gray"
+      }
+    },
+    { //above chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 390, 182 ],
+              [ 390, 202 ],
+              [ 410, 202 ],
+              [ 410, 182 ],
+              [ 390, 182 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 390, 204 ],
+              [ 390, 209 ],
+              [ 410, 209 ],
+              [ 410, 204 ],
+              [ 390, 204 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 22,
+        "fill": "gray"
+      }
+    },
+    { //table creation
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [ 350, 152 ],
+              [ 350, 179 ],
+              [ 420, 179 ],
+              [ 420, 152 ],
+              [ 350, 152 ]
+            ]
+          ],
+          [
+            [
+              [ 350, 174 ],
+              [ 350, 179 ],
+              [ 420, 179 ],
+              [ 420, 174 ],
+              [ 350, 174 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 2,
+        "fill": "Orange"
+      }
+    }, //Orange
+
+    { //below chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 360, 122 ],
+              [ 360, 130 ],
+              [ 380, 130 ],
+              [ 380, 122 ],
+              [ 360, 122 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 360, 132 ],
+              [ 360, 149 ],
+              [ 380, 149 ],
+              [ 380, 132 ],
+              [ 360, 132 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 23,
+        "fill": "gray"
+      }
+    },
+
+    { //below chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 390, 122 ],
+              [ 390, 130 ],
+              [ 410, 130 ],
+              [ 410, 122 ],
+              [ 390, 122 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 390, 132 ],
+              [ 390, 149 ],
+              [ 410, 149 ],
+              [ 410, 132 ],
+              [ 390, 132 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 24,
+        "fill": "gray"
+      }
+    },
+
+
+
+
+    ///FIRST SITTING - third row
+
+    { //above chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 0, 62 ],
+              [ 0, 82 ],
+              [ 20, 82 ],
+              [ 20, 62 ],
+              [ 0, 62 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 0, 84 ],
+              [ 0, 89 ],
+              [ 20, 89 ],
+              [ 20, 84 ],
+              [ 0, 84 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 25,
+        "fill": "gray"
+      }
+    },
+    { //above chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 30, 62 ],
+              [ 30, 82 ],
+              [ 50, 82 ],
+              [ 50, 62 ],
+              [ 30, 62 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 30, 84 ],
+              [ 30, 89 ],
+              [ 50, 89 ],
+              [ 50, 84 ],
+              [ 30, 84 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 26,
+        "fill": "gray"
+      }
+    },
+    { //table creation
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [ -10, 32 ],
+              [ -10, 59 ],
+              [ 60, 59 ],
+              [ 60, 32 ],
+              [ -10, 32 ]
+            ]
+          ],
+          [
+            [
+              [ -10, 54 ],
+              [ -10, 59 ],
+              [ 60, 59 ],
+              [ 60, 54 ],
+              [ -10, 54 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 2,
+        "fill": "Orange"
+      }
+    }, //Orange
+
+    { //below chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 0, 2 ],
+              [ 0, 10 ],
+              [ 20, 10 ],
+              [ 20, 2 ],
+              [ 0, 2 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 0, 12 ],
+              [ 0, 29 ],
+              [ 20, 29 ],
+              [ 20, 12 ],
+              [ 0, 12 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 27,
+        "fill": "gray"
+      }
+    },
+
+    { //below chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 30, 2 ],
+              [ 30, 10 ],
+              [ 50, 10 ],
+              [ 50, 2 ],
+              [ 30, 2 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 30, 12 ],
+              [ 30, 29 ],
+              [ 50, 29 ],
+              [ 50, 12 ],
+              [ 30, 12 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 28,
+        "fill": "gray"
+      }
+    },
+
+
+    ///MIDDLE SITTING - third row
+
+    { //above chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 180, 62 ],
+              [ 180, 82 ],
+              [ 200, 82 ],
+              [ 200, 62 ],
+              [ 180, 62 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 180, 84 ],
+              [ 180, 89 ],
+              [ 200, 89 ],
+              [ 200, 84 ],
+              [ 180, 84 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 29,
+        "fill": "gray"
+      }
+    },
+    { //above chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 210, 62 ],
+              [ 210, 82 ],
+              [ 230, 82 ],
+              [ 230, 62 ],
+              [ 210, 62 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 210, 84 ],
+              [ 210, 89 ],
+              [ 230, 89 ],
+              [ 230, 84 ],
+              [ 210, 84 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 30,
+        "fill": "gray"
+      }
+    },
+    { //table creation
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [ 170, 32 ],
+              [ 170, 59 ],
+              [ 240, 59 ],
+              [ 240, 32 ],
+              [ 170, 32 ]
+            ]
+          ],
+          [
+            [
+              [ 170, 54 ],
+              [ 170, 59 ],
+              [ 240, 59 ],
+              [ 240, 54 ],
+              [ 170, 54 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 2,
+        "fill": "Orange"
+      }
+    }, //Orange
+
+    { //below chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 180, 2 ],
+              [ 180, 10 ],
+              [ 200, 10 ],
+              [ 200, 2 ],
+              [ 180, 2 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 180, 12 ],
+              [ 180, 29 ],
+              [ 200, 29 ],
+              [ 200, 12 ],
+              [ 180, 12 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 31,
+        "fill": "gray"
+      }
+    },
+
+    { //below chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 210, 2 ],
+              [ 210, 10 ],
+              [ 230, 10 ],
+              [ 230, 2 ],
+              [ 210, 2 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 210, 12 ],
+              [ 210, 29 ],
+              [ 230, 29 ],
+              [ 230, 12 ],
+              [ 210, 12 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 32,
+        "fill": "gray"
+      }
+    },
+
+    ///THIRD SITTING - third row
+
+    { //above chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 360, 62 ],
+              [ 360, 82 ],
+              [ 380, 82 ],
+              [ 380, 62 ],
+              [ 180, 62 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 360, 84 ],
+              [ 360, 89 ],
+              [ 380, 89 ],
+              [ 380, 84 ],
+              [ 360, 84 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 33,
+        "fill": "gray"
+      }
+    },
+    { //above chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 390, 62 ],
+              [ 390, 82 ],
+              [ 410, 82 ],
+              [ 410, 62 ],
+              [ 390, 62 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 390, 84 ],
+              [ 390, 89 ],
+              [ 410, 89 ],
+              [ 410, 84 ],
+              [ 390, 84 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 34,
+        "fill": "gray"
+      }
+    },
+    { //table creation
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [ 350, 32 ],
+              [ 350, 59 ],
+              [ 420, 59 ],
+              [ 420, 32 ],
+              [ 350, 32 ]
+            ]
+          ],
+          [
+            [
+              [ 350, 54 ],
+              [ 350, 59 ],
+              [ 420, 59 ],
+              [ 420, 54 ],
+              [ 350, 54 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 2,
+        "fill": "Orange"
+      }
+    }, //Orange
+
+    { //below chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 360, 2 ],
+              [ 360, 10 ],
+              [ 380, 10 ],
+              [ 380, 2 ],
+              [ 360, 2 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 360, 12 ],
+              [ 360, 29 ],
+              [ 380, 29 ],
+              [ 380, 12 ],
+              [ 360, 12 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 35,
+        "fill": "gray"
+      }
+    },
+
+    { //below chair-top view
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [ //First row change will change position in width position//80 80 100 100 80
+              [ 390, 2 ],
+              [ 390, 10 ],
+              [ 410, 10 ],
+              [ 410, 2 ],
+              [ 390, 2 ]
+            ]
+          ],
+          [
+            [ //First row change will change position in width position
+              [ 390, 12 ],
+              [ 390, 29 ],
+              [ 410, 29 ],
+              [ 410, 12 ],
+              [ 390, 12 ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "seatno": 36,
+        "fill": "gray"
+      }
+    }//,
+
+
+
+
+
+
+    //{ //Far Right
+    //  "type": "Feature",
+    //  "geometry": {
+    //    "type": "MultiPolygon",
+    //    "coordinates": [
+    //      [
+    //        [ //First row change will change position in width position//80 80 100 100 80
+    //          [ 480, 282 ],
+    //          [ 480, 302 ],
+    //          [ 485, 302 ],
+    //          [ 485, 282 ],
+    //          [ 480, 282 ]
+    //        ]
+    //      ],
+    //      [
+    //        [ //First row change will change position in width position
+    //          [ 480, 304 ],
+    //          [ 480, 309 ],
+    //          [ 480, 309 ],
+    //          [ 480, 304 ],
+    //          [ 480, 304 ]
+    //        ]
+    //      ]
+    //    ]
+    //  },
+    //  "properties": {
+    //    "seatno": 0,
+    //    "fill": "blue"
+    //  }
+    //}
+  ]
+}
